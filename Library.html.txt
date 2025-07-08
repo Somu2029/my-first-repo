@@ -1,1 +1,5 @@
 <h> Coding something to view the pushes </h>
+<h>
+  a=56
+  b=12
+  c=a+b  </h>
